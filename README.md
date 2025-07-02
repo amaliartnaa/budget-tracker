@@ -1,4 +1,4 @@
-# 💸 Budget Tracker – SQL Portfolio Project
+# 💸 Budget Tracker
 
 A personal finance tracker built with **pure SQL and SQLite**, designed as a portfolio project to learn and showcase fundamental data engineering skills such as relational modeling, SQL analysis, CTEs, and window functions.
 
