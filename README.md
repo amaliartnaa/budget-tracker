@@ -36,7 +36,7 @@ All foreign keys are enforced, and data types are normalized.
 - `schema.sql`  
   Defines all tables and relationships.
 
-- `dummy_data.sql`  
+- `data.sql`  
   Inserts example accounts, categories, and transactions.
 
 - `monthly_expense.sql`  
